@@ -35,6 +35,8 @@ gem 'devise'
 # Login sys
 gem 'simple_form'
 # just make it simple
+gem 'font-awesome-rails'
+# fonts and icons
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
